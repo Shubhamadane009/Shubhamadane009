@@ -43,29 +43,32 @@ Currently focused on strengthening my backend engineering skills, system design 
 
 ## 🚀 Featured Projects
 
-### 1. Distributed Banking System
+### 🏦 Distributed Banking System
+**Java | Spring Boot | Kafka | Redis | MySQL | Microservices**
 
-A distributed banking application built using Spring Boot microservices.
+A distributed banking application demonstrating event-driven transaction processing, Saga-style workflows, and real-time fraud detection.
 
-- Kafka-based event-driven transaction processing.
-- Saga-style transaction workflows and compensating actions.
-- Redis-based fraud detection and OTP verification.
-- API Gateway and OpenFeign communication.
+- Designed six Spring Boot microservices with separate responsibilities.
+- Implemented Kafka-based transaction events and compensating refund workflows.
+- Integrated Redis for fraud checks, OTP verification, and rate limiting.
+- Used OpenFeign for inter-service communication.
 
-[Explore Repository →](https://github.com/Shubhamadane009/distributed-banking-system)
-
-### 2. Patient Management System
-
-A microservices-based backend application built with Spring Boot.
-
-- JWT authentication and API Gateway security.
-- Synchronous service communication using gRPC.
-- Asynchronous event messaging using Apache Kafka.
-- PostgreSQL persistence with Spring Data JPA.
-
-[Explore Repository →](https://github.com/Shubhamadane009/patient-management)
+[**View Source Code →**](https://github.com/Shubhamadane009/distributed-banking-system)
 
 ---
+
+### 🏥 Patient Management System
+**Java | Spring Boot | gRPC | Kafka | PostgreSQL | Spring Security**
+
+A microservices-based backend application demonstrating secure API access and synchronous/asynchronous service communication.
+
+- Implemented JWT authentication and API Gateway validation.
+- Integrated gRPC for synchronous service communication.
+- Implemented Kafka-based asynchronous patient event messaging.
+- Used Spring Data JPA and PostgreSQL for persistence.
+
+[**View Source Code →**](https://github.com/Shubhamadane009/patient-management)
+
 
 ## 💻 Problem Solving
 
