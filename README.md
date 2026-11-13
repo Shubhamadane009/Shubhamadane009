@@ -1,4 +1,4 @@
-# Hey, I'm Shubham Adane 👋
+# Hey, I'm Shubham Madane 👋
 
 ### Java Backend Developer | Spring Boot | Microservices | Distributed Systems
 
