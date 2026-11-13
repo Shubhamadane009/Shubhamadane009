@@ -1,3 +1,5 @@
+![Shubham Madane - Java Backend Developer](profile-banner.png)
+
 # Hey, I'm Shubham Madane 👋
 
 ### Java Backend Developer | Spring Boot | Microservices | Distributed Systems
